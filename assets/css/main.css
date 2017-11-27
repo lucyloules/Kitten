@@ -1,1 +1,9 @@
+.container{
+  background-image: url("../img/sunny-day.jpg");
+  background-size: cover;
+ }
 
+.kitten{
+  float: left;
+  padding: 30% 10% 5% 20%;
+}
